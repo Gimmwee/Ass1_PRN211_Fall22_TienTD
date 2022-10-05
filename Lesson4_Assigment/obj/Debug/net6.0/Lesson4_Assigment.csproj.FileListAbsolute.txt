@@ -1,0 +1,15 @@
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\Lesson4_Assigment.csproj.AssemblyReference.cache
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\Lesson4_Assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\Lesson4_Assigment.AssemblyInfoInputs.cache
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\Lesson4_Assigment.AssemblyInfo.cs
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\Lesson4_Assigment.csproj.CoreCompileInputs.cache
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\bin\Debug\net6.0\Lesson4_Assigment.exe
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\bin\Debug\net6.0\Lesson4_Assigment.deps.json
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\bin\Debug\net6.0\Lesson4_Assigment.runtimeconfig.json
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\bin\Debug\net6.0\Lesson4_Assigment.dll
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\bin\Debug\net6.0\Lesson4_Assigment.pdb
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\Lesson4_Assigment.dll
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\refint\Lesson4_Assigment.dll
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\Lesson4_Assigment.pdb
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\Lesson4_Assigment.genruntimeconfig.cache
+D:\SolutionPRN211\PRN211_Assigment1\Lesson4_Assigment\obj\Debug\net6.0\ref\Lesson4_Assigment.dll
